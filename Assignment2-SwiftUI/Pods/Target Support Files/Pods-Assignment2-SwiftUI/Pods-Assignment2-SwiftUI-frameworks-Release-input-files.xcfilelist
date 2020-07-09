@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Assignment2-SwiftUI/Pods-Assignment2-SwiftUI-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireObjectMapper/AlamofireObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
